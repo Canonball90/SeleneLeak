@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "selene",
+    "name": "Selene",
+    "description": "Hacked Client intended for anarchy servers.",
+    "version": "0.6.1",
+    "mcversion": "1.12.2",
+    "logoFile": "logo.png",
+    "url": "discord.gg/ZEVDg9xSUv",
+    "updateUrl": "",
+    "authorList": [
+      "MrBubblegum",
+      "funtimeonly990",
+      "ZANE",
+      "CanonBall90"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
